@@ -36,7 +36,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanukaumesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shanukaumesh" />
 </p>
 
-[![GitHub Badge](https://avatars.githubusercontent.com/u/xxxxxxxx?v=4)](https://github.com/shanukaumesh)
+
 
 ---
 
